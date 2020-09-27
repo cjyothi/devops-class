@@ -1,3 +1,3 @@
 Class2
 
-Class
+Class1
